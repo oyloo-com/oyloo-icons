@@ -1,23 +1,23 @@
 {
-  "name": "iron-icons",
+  "name": "oyloo-icons",
   "version": "1.1.3",
   "description": "A set of icons for use with iron-icon",
   "authors": [
-    "The Polymer Authors"
+    "Ed Ilyin <ed.il@live.com>"
   ],
   "keywords": [
     "web-components",
     "polymer",
     "icon"
   ],
-  "main": "iron-icons.html",
+  "main": "oyloo-icons.html",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/iron-icons"
+    "url": "git://github.com/oyloo-com/oyloo-icons"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/paper-icons",
+  "homepage": "git://github.com/oyloo-com/oyloo-icons",
   "dependencies": {
     "iron-icon": "polymerelements/iron-icon#^1.0.0",
     "iron-iconset-svg": "polymerelements/iron-iconset-svg#^1.0.0",
@@ -30,9 +30,5 @@
     "iron-meta": "polymerelements/iron-meta#^1.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
     "web-component-tester": "^4.0.0"
-  },
-  "ignore": [
-    "util",
-    "update-icons.sh"
-  ]
+  }
 }
